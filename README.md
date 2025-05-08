@@ -51,19 +51,19 @@ If don't have account then register to supabase
 <p>
 Home page where you can choose your workout and timer will get started 
 <p>
-    <img src="assets/screenshot/home_dark.png" hspace="20" >
-    <img src="assets/screenshot/home_light.png" hspace="20" >
+    <img src="assets/screenshot/home_dark.png" hspace="10" >
+    <img src="assets/screenshot/home_light.png" hspace="10" >
 </p>
 <p>
 This is gif based file which will guide in exercise 
 <p>
-    <img src="assets/screenshot/workout_dark.png" hspace="20" >
-    <img src="assets/screenshot/workout_timer_stop_dark.png" hspace="20" >
+    <img src="assets/screenshot/workout_dark.png" hspace="10" >
+    <img src="assets/screenshot/workout_timer_stop_dark.png" hspace="10" >
 </p>
 <p>
 Recent activites
 <p>
-    <img src="assets/screenshot/workout_history_dark.png" hspace="20" >
-    <img src="assets/screenshot/workout_history_light.png" hspace="20" >
-    <img src="assets/screenshot/workout_log_delet_dark.png" hspace="20" >
+    <img src="assets/screenshot/workout_history_dark.png" hspace="10" >
+    <img src="assets/screenshot/workout_history_light.png" hspace="10" >
+    <img src="assets/screenshot/workout_log_delete_dark.png" hspace="10" >
 </p>
