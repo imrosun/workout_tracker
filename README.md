@@ -35,6 +35,12 @@ Prerequisites
 4. Add SUPABASE_URL and SUPABASE_ANON_KEY to .env.local and if this doesn't work then directly invoke on main.dart file 
 5. This all should work, If you need any assistant then contact me on my socials 
 
+## Tech Stack
+Flutter + Dart
+Supabase database
+flutter_tts dependency for voice cues
+flutter_bloc dependency for BLoC Design Pattern (Business Logic Component).
+
 ## Screenshots 
 
 Entry page type credentials and login 
