@@ -1,6 +1,6 @@
 # workout-tracker
 
-App video demo: [text](https://drive.google.com/file/d/1KhhLQlkUEbG2bMjsPtNu1Sw26HkWyrF5/view?usp=sharing)
+App video demo: [click here to watch app demo](https://drive.google.com/file/d/1KhhLQlkUEbG2bMjsPtNu1Sw26HkWyrF5/view?usp=sharing)
 
 ## Getting Started
 
@@ -37,30 +37,33 @@ Prerequisites
 
 ## Screenshots 
 
+Entry page type credentials and login 
 <p>
-    ![Login Dark](assets/screenshot/login_dark.png)
-    ![Login Light](assets/screenshot/login_light.png)
     <img src="assets/screenshot/login_dark.png" hspace="10" >
     <img src="assets/screenshot/login_light.png" hspace="10" >
 </p>
-
 <p>
-    ![Sign up dark](assets/screenshot/register_dark.png)
-    ![Sign up light](assets/screenshot/register_light.png)
+If don't have account then register to supabase 
+<p>
+    <img src="assets/screenshot/register_dark.png" hspace="10" >
+    <img src="assets/screenshot/register_light.png" hspace="10" >
 </p>
-
 <p>
-    ![Home dark](assets/screenshot/home_dark.png)
-    ![Home light](assets/screenshot/home_light.png)
+Home page where you can choose your workout and timer will get started 
+<p>
+    <img src="assets/screenshot/home_dark.png" hspace="20" >
+    <img src="assets/screenshot/home_light.png" hspace="20" >
 </p>
-
 <p>
-    ![Workout dark](assets/screenshot/workout_dark.png)
-    ![Workout timer](assets/screenshot/workout_timer_stop_dark.png)
+This is gif based file which will guide in exercise 
+<p>
+    <img src="assets/screenshot/workout_dark.png" hspace="20" >
+    <img src="assets/screenshot/workout_timer_stop_dark.png" hspace="20" >
 </p>
-
 <p>
-    ![History dark](assets/screenshot/workout_history_dark.png)
-    ![History light](assets/screenshot/workout_history_light.png)
-    ![Workout Log delete](assets/screenshot/workout_log_delet_dark.png)
+Recent activites
+<p>
+    <img src="assets/screenshot/workout_history_dark.png" hspace="20" >
+    <img src="assets/screenshot/workout_history_light.png" hspace="20" >
+    <img src="assets/screenshot/workout_log_delet_dark.png" hspace="20" >
 </p>
