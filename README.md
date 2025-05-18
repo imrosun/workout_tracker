@@ -1,8 +1,7 @@
 # workout-tracker
 
-<!-- App video demo: [click here to watch app demo](https://drive.google.com/file/d/1KhhLQlkUEbG2bMjsPtNu1Sw26HkWyrF5/view?usp=sharing) -->
-App video demo:
-[![Watch the video]](https://drive.google.com/file/d/1KhhLQlkUEbG2bMjsPtNu1Sw26HkWyrF5/view?usp=sharing)
+App video demo: [click here to watch app demo](https://drive.google.com/file/d/1KhhLQlkUEbG2bMjsPtNu1Sw26HkWyrF5/view?usp=sharing)
+<!-- App video demo:[![Watch the video]](https://drive.google.com/file/d/1KhhLQlkUEbG2bMjsPtNu1Sw26HkWyrF5/view?usp=sharing) -->
 
 ## Tech Stack
 - Flutter + Dart
