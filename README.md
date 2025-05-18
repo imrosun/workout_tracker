@@ -1,6 +1,8 @@
 # workout-tracker
 
-App video demo: [click here to watch app demo](https://drive.google.com/file/d/1KhhLQlkUEbG2bMjsPtNu1Sw26HkWyrF5/view?usp=sharing)
+<!-- App video demo: [click here to watch app demo](https://drive.google.com/file/d/1KhhLQlkUEbG2bMjsPtNu1Sw26HkWyrF5/view?usp=sharing) -->
+App video demo:
+[![Watch the video]](https://drive.google.com/file/d/1KhhLQlkUEbG2bMjsPtNu1Sw26HkWyrF5/view?usp=sharing)
 
 ## Tech Stack
 - Flutter + Dart
@@ -18,7 +20,10 @@ Prerequisites
 ### Steps: 
 
 1. Clone the repository
-2. ```bash flutter pub get` - to install all dependencies
+2. to install all dependencies
+```bash 
+flutter pub get
+``` 
 3. Create account on supabase it is same as firebase setup 
    - Create new project as "workout_tracker"
    - Create a table named "workout_logs" which will have followed columns
@@ -43,13 +48,10 @@ Prerequisites
 
 ## Screenshots 
 
-Entry page type credentials and login 
-<p>
-    <img src="assets/screenshot/login_dark.png" hspace="10" >
-    <img src="assets/screenshot/login_light.png" hspace="10" >
-</p>
-<p>
 If don't have account then register to supabase 
+
+DARK MODE / LIGHT MODE
+
 <p>
     <img src="assets/screenshot/register_dark.png" hspace="10" >
     <img src="assets/screenshot/register_light.png" hspace="10" >
