@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
         builder: (context, state) {
           return MaterialApp(
             debugShowCheckedModeBanner: false,
-            title: 'Notes App',
+            title: 'Workout App',
             theme: ThemeCubit.lightTheme,
             darkTheme: ThemeCubit.darkTheme,
             themeMode: state.appTheme == AppTheme.light
